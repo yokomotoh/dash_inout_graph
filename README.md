@@ -2,5 +2,5 @@
 
 my first dash experiment. You can input datas then output the table and the graph in one website.
 
-<img src = "/images/simulator1.png" width="200">
+<img src = "Screenshot 2021-11-16 at 08.24.14.png" width="200">
 <img src = "/images/simulator2.png" width="200">
